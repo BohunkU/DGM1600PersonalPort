@@ -8,12 +8,14 @@
    } 
 }
 
-nav {
-position: fixed;
-top: 5px;
-color: darkslateblue;
-margin-right: auto;
-margin-left: auto;
-    width: 10px
-}
+
+#navbar{
+    width:100%;
+    background-color:#5A859E;
+    overflow:hidden;
+    position:fixed;
+    float:right;
+    font-size: 20px;
+    text-align:center;
+  }
 
